@@ -130,11 +130,11 @@ vitis
 (If using older 2023.1.1 Vitis Unified IDE: start Vitis with ```vitis -new``` (for Alveo FPGA) or ```vitis``` (for Pynq FPGA), not recommended)
 
 ### create HLS component 
-- add content of ```/ProcessorCode/``` folder and set top-level function to ```adrv32imf_mp_ip```
+- add content of ```/ProcessorCode/``` folder to ```src``` and set top-level function to ```adrv32imf_mp_ip```
 - add content of ```/testbench/``` as testbench
 
 ### create Application Component  
-- add content of ```/Application Code/```
+- add content of ```/ApplicationCode/``` as ```src```
 
 ### create System Project
 - create System Project for Alveo U50 with previously configured HLS component and Application Component
