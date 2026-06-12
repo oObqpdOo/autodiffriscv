@@ -1,0 +1,7 @@
+11:09:48 INFO  : bash, -c, source /tools/Xilinx/Vitis/2024.1/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2024.1/data/embeddedsw/scripts/pyesw//repo.py -st  /tools/Xilinx/Vitis/2024.1/data/embeddedsw && deactivate
+11:09:48 INFO  : updated workspace path: 
+11:09:51 INFO  : Successfully created repository data at /tmp/rigel_lopper_johannes7848800177843609002
+11:09:51 INFO  : bash, -c, source /tools/Xilinx/Vitis/2024.1/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2024.1/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_johannes8672788512954045184 -r /tmp/rigel_lopper_johannes7848800177843609002/.repo.yaml && deactivate
+11:09:51 INFO  : Embedded Template List generated successfully
+11:10:11 INFO  : bash, -c, source /tools/Xilinx/Vitis/2024.1/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2024.1/data/embeddedsw/scripts/pyesw//repo.py -st  /tools/Xilinx/Vitis/2024.1/data/embeddedsw && deactivate
+11:10:12 INFO  : created .gitignore file for the project /home/johannes/Documents/ad-rv32imf/Vitis_2024_1
