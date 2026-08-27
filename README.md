@@ -1,7 +1,8 @@
 # ad-rv32imf
 
-## Disclaimer: This is a temporary, anonymous repository for submission to ASAP 2026. 
-### The real repository will be revealed upon acceptance. 
+## Disclaimer: This is a temporary repository for submission to ASAP 2026. 
+
+This repository is in the process of being merged with a private developer's repository.
 
 Many thanks to Bernard Goossens for providing early prototypes and for the excellent description of the underlying microarchitecture in the book:   
    
