@@ -1,8 +1,16 @@
 # ad-rv32imf
 
-## Disclaimer: This is a temporary repository for ASAP 2026. 
+## The worlds first domain-specific processor design for forward-mode automatic differentiation
 
-### This repository is in the process of being merged with a private developer's repository.
+Publications: 
+
+J. Schoder, H. M. Bücker: "Forward-mode automatic differentiation for the RISC-V RV32IMF instruction set."   
+In Proceedings of the 37th IEEE International Conference on Application-Specific Systems, Architectures and Processors ASAP 2026, London, UK, September 2-4, 2026. IEEE, 2026. Extended abstract   
+
+J. Schoder, H. M. Bücker: "Scaling an augmented RISC-V processor design with high-level synthesis."    
+In M. Weiland, S. Neuwirth, C. Kruse, and T. Weinzierl, editors, High Performance Computing. ISC High Performance 2024 International Workshops, Hamburg, Germany, May 12-16, 2024, volume 15058 of Lecture Notes in Computer Science, pages 312-324, Cham, Switzerland, 2025. Springer Nature.
+
+### Note: this is a work in progress and currently in the process of being merged with a private developer's repository.
 
 Many thanks to Bernard Goossens for providing early prototypes and for the excellent description of the underlying microarchitecture in the book:   
    
